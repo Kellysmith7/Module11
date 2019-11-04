@@ -1,7 +1,7 @@
 """
 Program: employee_class.py
 Author: Kelly Smith
-Last day updated: 11-5-19
+Last day updated: 11-4-19
 
 Program to get and return employee personal information
 :param last_name - Employee's last name

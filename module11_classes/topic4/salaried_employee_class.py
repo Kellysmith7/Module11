@@ -1,7 +1,7 @@
 """
 Program: salaried_employee_class.py
 Author: Kelly Smith
-Last day updated: 11-5-19
+Last day updated: 11-4-19
 
 Program to get employee start date and salary
 :param emp_salary - Employee's salary
